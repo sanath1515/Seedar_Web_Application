@@ -1,6 +1,12 @@
-# AngularAssignment
+# Funds Management - SEEDER
+
+## AngularAssignment
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.2.
+
+## Introduction
+
+Seeder is a capital-raising platform for small to mid-sized businesses and startups looking to grow and expand. With a network of individual investors, CFOs and CEOs can easily secure the required funding by creating business contracts, similar to crowdfunding. The platform offers a seamless and straightforward application process, ensuring quick access to capital. Easy payment processing simplifies transactions, while flexible repayment options cater to each business's unique needs. Seeder's mission is to empower ambitious businesses, providing them with the financial support they need to thrive and succeed.
 
 ## Development server
 
